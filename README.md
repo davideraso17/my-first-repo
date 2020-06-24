@@ -1,26 +1,6 @@
-# David Eraso
+# UNIX WORKBENCH ASSIGNMENT
+*by Harold David Eraso*
 
-### Geography
+**Date**: mié 24 jun 2020 02:02:22 -05
 
-Vivo en Medellín, Antioquia, Colombia
-
-### Reading
-
-Three of my favorite books are:
-
-- *El monje Urbano*
-- *Sangre de campeones*
-- *La ciencia de emprender*
-
-###Food
-
-Last night I dreamt about eating in these restaurants:
-
-1. steak
-2. Baby beef
-3. Fish
-
-### Contact
-
-davideraso17@gmail.com
-The best way to get in touch with me is [on Facebook](https://www.facebook.com/david.eraso17).
+**Number of lines in guessinggame.sh:** 26
